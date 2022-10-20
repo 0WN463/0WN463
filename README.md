@@ -3,10 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0wn463" alt="0wn463" /></a> </p>
 
-- ⚡ Fun fact **I use Arch btw**
+- ⚡ Fun fact: **I use Arch btw**
+- I converted my notes from my academic days into interactive notebooks for future undergrads and people who're curious to learn, under project [Wellspring](https://github.com/0WN463/wellspring)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Other me's</h3>
 <p align="left">
+https://glitch.com/@0WN3D
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
